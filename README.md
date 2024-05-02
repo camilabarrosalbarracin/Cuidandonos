@@ -6,4 +6,5 @@ Justificaciones de diseño: https://docs.google.com/document/d/18OfC6S3yEUpmIfvU
 
 Diagrama de clases:
 
-https://github.com/camilabarrosalbarracin/Cuidandonos/blob/main/src/resources/Entregables%20-%20cuidandonos%20DDC.png?raw=true
+![image](https://github.com/camilabarrosalbarracin/Cuidandonos/assets/102629449/9b125802-5be0-428d-bf09-2ffa9d5aaf2e)
+
